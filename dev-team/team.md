@@ -7,7 +7,7 @@ The **E-RANK project team** consists of final-year ICT students gaining practica
 **Oarabetse Morata** — **Group Leader**  
 - Student Number: 202406427
 - Email: 202406427@spu.ac.za   
-- GitHub: [Oarabetse](https://github.com/Oarabetse)  
+- GitHub: [Oarabetse](https://github.com/Oarabetse-pixel)  
 - Background: ICT student working on this project while developing full-stack capabilities; applying Technopreneurship principles in project planning and management.  
 - Focus Areas: Mobile and Web Application Development, Backend API Development, Database Design & Management (in progress)  
 
