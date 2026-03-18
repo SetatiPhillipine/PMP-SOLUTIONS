@@ -32,7 +32,7 @@ E-RANK leverages affordable mobile and tablet technology already familiar to use
 | [Oarabetse Morata](https://github.com/Oarabetse)              | 202406427     | https://github.com/Oarabetse                                 |
 | [Phuti Setati](https://github.com/PhutiSetati)                | 202435062     | https://github.com/PhutiSetati                               |
 | [Kholofelo Phalakatsela](https://github.com/KholofeloPhalakatsela) | 202306829     | https://github.com/KholofeloPhalakatsela                     |
-| [Louisa Mdluli](https://github.com/Louisa322)              | 202324412     | https://github.com/LouisaMdluli                               |
+| [Louisa Mdluli](https://github.com/Louisa322)              | 202324412     | https://github.com/Louisa322                               |
 | [Siyabonga José Ndzobondzobo](https://github.com/SiyaJNdzobs) | 202441850     | https://github.com/SiyaJNdzobs                                |
 
 ---
