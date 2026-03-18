@@ -14,7 +14,7 @@ The **E-RANK project team** consists of final-year ICT students gaining practica
 **Phuti Setati**  
 - Student Number: 202435062
 - Email: 202435062@spu.ac.za   
-- GitHub: [Phuti Setati](https://github.com/PhutiSetati)  
+- GitHub: [Phuti Setati](https://github.com/SetatiPhillipine)  
 - Background: ICT student actively learning full-stack development and contributing to the E-RANK project; practicing Technopreneurship in solution design.  
 - Focus Areas: Mobile and Web Application Development, Backend API Development, Database Design & Management (in progress)  
 
@@ -28,7 +28,7 @@ The **E-RANK project team** consists of final-year ICT students gaining practica
 **Louisa Mdluli**  
 - Student Number: 202324412
 - Email: 202324412@spu.ac.za  
-- GitHub: [Louisa Mdluli](https://github.com/LouisaMdluli)  
+- GitHub: [Louisa Mdluli](https://github.com/Louisa322)  
 - Background: ICT student contributing to the project while building practical IT skills; integrating Technopreneurship ideas in project implementation.  
 - Focus Areas: Mobile and Web Application Development, Backend API Development, Database Design & Management (in progress)  
 
