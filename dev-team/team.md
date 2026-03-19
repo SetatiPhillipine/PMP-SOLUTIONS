@@ -20,7 +20,7 @@ The **E-RANK project team** consists of final-year ICT students gaining practica
 
 **Kholofelo Phalakatsela**  
 - Student Number: 202306829
-- Email: 20236829@spu.ac.za   
+- Email: 202306829@spu.ac.za   
 - GitHub: [Kholofelo Phalakatsela](https://github.com/IamKholofeloPhala)  
 - Background: ICT student developing technical skills while working on system architecture and data handling for E-RANK; applying Technopreneurship knowledge.  
 - Focus Areas: Mobile and Web Application Development, Backend API Development, Database Design & Management (in progress)  
