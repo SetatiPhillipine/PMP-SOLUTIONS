@@ -4,7 +4,7 @@
 
 | Version | Status | Support Period |
 |---------|--------|----------------|
-| Phase 3 (Development) | Active Development | Until April 2026 |
+| Phase 3 (Development) | Active Development | Post May 2026 |
 | Phase 4 (Production) | Planned | July 2026 |
 
 ---
