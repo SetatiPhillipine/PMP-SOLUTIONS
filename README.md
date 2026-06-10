@@ -96,8 +96,3 @@ This balance ensures practical implementation in the South African taxi industry
 
 **Group Name:** PMP Solutions  
 **Course:** NPRT630  
-**Due Date:** 20 April 2026
-
----
-
-## Repository Structure
